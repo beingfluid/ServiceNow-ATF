@@ -3,6 +3,8 @@
 > Programmers shouldn’t have to guess whether software is working correctly.
 >
 >They should be able to prove it, every step of the way.
+>
+> ~ Neelam Dwivedi (Associate Professor at University of Oklahoma)
 
 ## TDD Approach
 
